@@ -1,8 +1,8 @@
 # CS-370
 
 Brief Explanation of the Project Work:
-\nIn this project, I was provided with a skeleton code that included the environment setup and initial classes for building the agent's brain. The code used Python, TensorFlow, and Keras libraries to create a maze environment and an intelligent agent (the pirate) that navigates through it. I was responsible for implementing the core Q-learning algorithm to make the agent learn the most efficient paths in the maze.
-\nThe following code is what I did myself;
+In this project, I was provided with a skeleton code that included the environment setup and initial classes for building the agent's brain. The code used Python, TensorFlow, and Keras libraries to create a maze environment and an intelligent agent (the pirate) that navigates through it. I was responsible for implementing the core Q-learning algorithm to make the agent learn the most efficient paths in the maze.
+The following code is what I did myself;
 
 Connection to the Larger Field of Computer Science:
 What Do Computer Scientists Do and Why Does It Matter?
